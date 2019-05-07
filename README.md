@@ -1,5 +1,5 @@
 # Snake-ruby
-Snake in ruby
+Snake written in ruby
 
 Install
 
